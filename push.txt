@@ -1,0 +1,3 @@
+git push origin VOTRE_BRANCHE\
+git push -u origin VOTRE_BRANCHE\
+git push --all origin\
